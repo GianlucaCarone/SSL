@@ -1,4 +1,4 @@
-Sintaxis y Semántica de los Lenguajes
+# Sintaxis y semántica de los lenguajes
 
 * Curso: K2051
 
